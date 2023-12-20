@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate of Chemistry
+role: Undergraduate Student of Chemistry
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -114,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Renjie Zhu is undergraduate student of Chemistry at the school of chemistry and molecular engineering in ECNU.
 {style="text-align: justify;"}
