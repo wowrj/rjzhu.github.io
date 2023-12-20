@@ -65,7 +65,7 @@ sections:
         - title: Research Practice
           company: ECNU-Xia-Group
           company_url: ''
-          company_logo: org-ECNU
+          company_logo: org-x
           location: Shanghai
           date_start: '2021-08-30'
           date_end: ''
