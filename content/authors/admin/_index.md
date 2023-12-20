@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 朱仁杰
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zhu Ren Jie
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ren Jie
+last_name: Zhu
 
 # Status emoji
 status:
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate of Chemistry
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: East China Normal University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
