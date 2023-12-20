@@ -204,11 +204,6 @@ sections:
       columns: '2'
   - block: contact
     id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        Contact me.
       # Contact (add or remove contact options as necessary)
       email: 1518725978@qq.com
       address:
