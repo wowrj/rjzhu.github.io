@@ -91,11 +91,11 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-11-25'
           description: '二等奖'
-          icon: 
+          icon: top_en.jpg
           organization: 中国工业与应用数学会
-          organization_url: https://www.coursera.org
+          organization_url: http://en.mcm.edu.cn/
           title: 全国大学生数学建模竞赛
           url: ''
         - certificate_url: https://www.edx.org
@@ -243,14 +243,6 @@ sections:
         latitude: '31.030686'
         longitude: '121.450154'  
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
         - icon: video
           icon_pack: fas
           name: Zoom Me
