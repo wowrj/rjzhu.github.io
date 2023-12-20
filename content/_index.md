@@ -208,18 +208,16 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Contact me.
       # Contact (add or remove contact options as necessary)
       email: 1518725978@qq.com
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Dongchuan Road 500
+        city: Shanghai
+        region: SH
+        postcode: '200241'
+        country: P. R. China
+        country_code: CN
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '31.030686'
