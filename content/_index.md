@@ -92,11 +92,11 @@ sections:
         - certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
+          description: '二等奖'
+          icon: 
+          organization: 中国工业与应用数学会
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: 全国大学生数学建模竞赛
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
