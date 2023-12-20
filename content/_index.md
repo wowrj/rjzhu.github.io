@@ -75,7 +75,7 @@ sections:
               * Computational Chemistry
               * Coarse-grained Modelling
     design:
-      columns: '1'
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
