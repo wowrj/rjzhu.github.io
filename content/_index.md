@@ -144,10 +144,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Study in ECNU
+          tag: Study in ECNU
+        - name: Code
+          tag: Code
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
