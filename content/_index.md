@@ -176,16 +176,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   - block: tag_cloud
     content:
       title: Popular Topics
@@ -205,7 +195,7 @@ sections:
         city: Shanghai
         region: SH
         postcode: '200241'
-        country: P. R. China
+        country: P.R.China
         country_code: CN
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
