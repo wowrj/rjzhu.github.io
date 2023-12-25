@@ -1,7 +1,7 @@
 ---
-title: Blog with Jupyter Notebooks!
-date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+title: This is my first Blog!
+date: '2023-12-25'
+summary: My first Blog!
 ---
 
 
