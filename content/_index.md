@@ -98,7 +98,6 @@ sections:
           organization_url: 
           title: 第十七届上海大学生化学实验竞赛暨实验创新设计竞赛
           url: ''
-      items:
         - certificate_url: http://en.mcm.edu.cn/
           date_end: ''
           date_start: '2023-11-25'
