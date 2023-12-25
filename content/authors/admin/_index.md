@@ -25,7 +25,7 @@ organizations:
     url: https://www.ecnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm an undergraduate student of Chemistry at the school of chemistry and molecular engineering in ECNU.My research interests include computational chemistry and molecular dynamics.
 
 # Interests to show in About widget
 interests:
