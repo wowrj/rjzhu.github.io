@@ -102,5 +102,5 @@ social:
 highlight_name: true
 ---
 
-Renjie Zhu is undergraduate student of Chemistry at the school of chemistry and molecular engineering in ECNU.
+Renjie Zhu is an undergraduate student of Chemistry at the school of chemistry and molecular engineering in ECNU.
 {style="text-align: justify;"}
