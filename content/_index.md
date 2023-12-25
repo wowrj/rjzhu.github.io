@@ -89,6 +89,17 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: https://news.sjtu.edu.cn/jdyw/20230906/187733.html
+          date_end: ''
+          date_start: '2023-09-01'
+          description: '特等奖'
+          icon: https://edu.sh.gov.cn/edu-assets-20200601/imgs/logo.png
+          organization: 上海市教育委员会
+          organization_url: 
+          title: 第十七届上海大学生化学实验竞赛暨实验创新设计竞赛
+          url: ''
+
+      items:
         - certificate_url: http://en.mcm.edu.cn/
           date_end: ''
           date_start: '2023-11-25'
