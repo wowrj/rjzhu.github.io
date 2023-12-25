@@ -23,7 +23,7 @@ abstract: UCG model
 summary: UCG model
 
 tags:
-- Source Themes
+- Publications
 featured: false
 
 # links:
