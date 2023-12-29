@@ -57,7 +57,7 @@ skills:
         icon_pack: fas
       - name: Lammps
         description: ''
-        percent: 40
+        percent: 50
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -71,12 +71,12 @@ skills:
         icon_pack: fas
       - name: Cats
         description: ''
-        percent: 80
+        percent: 70
         icon: cat
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 80
+        percent: 88
         icon: camera-retro
         icon_pack: fas
 
@@ -87,7 +87,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:1518725978@qq.com'
+    link: 'mailto:rj_zhu@foxmail.com'
   - icon: github
     icon_pack: fab
     link: https://github.com/wowrj
