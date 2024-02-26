@@ -72,7 +72,7 @@ skills:
       - name: Fishing
         description: ''
         percent: 70
-        icon: fishing-rod
+        icon: fish
         icon_pack: fas
       - name: Photography
         description: ''
