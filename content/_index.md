@@ -198,7 +198,7 @@ sections:
       text: |-
         Contact me.
       # Contact (add or remove contact options as necessary)
-      email: rj_zhu@foxmail.com
+      email: rjzhu811@gmail.com
       address:
         street: Dongchuan Road 500
         city: Shanghai

@@ -69,10 +69,10 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Fishing
         description: ''
         percent: 70
-        icon: cat
+        icon: fishing-rod
         icon_pack: fas
       - name: Photography
         description: ''
@@ -87,7 +87,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:rj_zhu@foxmail.com'
+    link: 'mailto:rjzhu811@gmail.com'
   - icon: github
     icon_pack: fab
     link: https://github.com/wowrj
