@@ -92,7 +92,7 @@ sections:
         - certificate_url: https://news.sjtu.edu.cn/jdyw/20230906/187733.html
           date_end: ''
           date_start: '2023-09-01'
-          description: '特等奖'
+          description: '特等奖(Top 1)'
           icon: https://edu.sh.gov.cn/edu-assets-20200601/imgs/logo.png
           organization: 上海市教育委员会
           organization_url: 
@@ -106,6 +106,15 @@ sections:
           organization: 中国工业与应用数学会
           organization_url: http://en.mcm.edu.cn/
           title: 全国大学生数学建模竞赛
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2024-07-14'
+          description: '特等奖(Top 1)'
+          icon: 
+          organization: 上海市教育委员会
+          organization_url: 
+          title: 第十八届上海大学生化学实验竞赛
           url: ''
     design:
       columns: '2'
