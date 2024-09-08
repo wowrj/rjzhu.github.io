@@ -74,6 +74,18 @@ sections:
 
               * Computational Chemistry
               * Coarse-grained Modelling
+        - title: Summer Research
+          company: WAIS-Huang-Group
+          company_url: ''
+          company_logo: org-x
+          location: Hangzhou
+          date_start: '2024-07-30'
+          date_end: '2024-08-30'
+          description: |2-
+              Responsibilities include:
+
+              * Protein Pocket Alignment
+              * Protein Surface Fingerprint
     design:
       columns: '1'
   - block: accomplishments
