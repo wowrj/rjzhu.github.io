@@ -4,8 +4,6 @@ date: '2024-08-25'
 summary: Some tips and record of utilizing MaSIF
 ---
 
-# Installation and Application of MaSIF
-----
 
 ## 01 Introduction
 
