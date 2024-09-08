@@ -32,6 +32,7 @@ interests:
   - Artificial Intelligence
   - Computational Chemistry
   - Coarse-grained Modeling
+  - Computer-Aided Drug Design
 
 # Education to show in About widget
 education:

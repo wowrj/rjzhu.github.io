@@ -1,13 +1,16 @@
 ---
-title: This is my first Blog!
-date: '2023-12-25'
-summary: My first Blog!
+title: Installation and Application of MaSIF
+date: '2024-08-25'
+summary: Some tips and record of utilizing MaSIF
 ---
 
+# Installation and Application of MaSIF
+----
 
-# 这是我的第一篇 Blog
+## 01 Introduction
+
+MaSIF is a very useful tool to get fingerprint information of protein surface!
 
 
-## 建立这个homepage的初心
+## 02 Tips on installation
 
-另辟蹊径找到自己的空间！
