@@ -109,7 +109,7 @@ sections:
           organization: Shanghai Municipal Education Commission
           organization_url: 
           title: Shanghai College Students' Chemistry Experiment Innovation Design Competition 
-            (第十七届上海大学生化学实验创新设计竞赛)
+            第十七届上海大学生化学实验创新设计竞赛
           url: ''
         - certificate_url: http://en.mcm.edu.cn/
           date_end: ''
@@ -129,7 +129,7 @@ sections:
           organization: Shanghai Municipal Education Commission
           organization_url: 
           title: Shanghai College Students' Chemistry Experiment Competition 
-            (第十八届上海大学生化学实验竞赛)
+            第十八届上海大学生化学实验竞赛
           url: ''
     design:
       columns: '2'
