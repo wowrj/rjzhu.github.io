@@ -92,7 +92,7 @@ sections:
           organization: China Society for Industrial and Applied Mathematics
           organization_url: ''
           title: |2-
-              Contemporary Undergraduate Mathematical Contest in Modeling
+              17th Contemporary Undergraduate Mathematical Contest in Modeling
 
               Second Prize (Top 3%)
           url: ''
@@ -104,7 +104,7 @@ sections:
           organization: Shanghai Municipal Education Commission
           organization_url: 
           title: |2-
-              Shanghai College Students' Chemistry Experiment Competition 
+              18th Shanghai College Students' Chemistry Experiment Competition 
 
               Special Prize (Top 1)
           url: ''
@@ -144,6 +144,17 @@ sections:
           organization: East China Normal University
           organization_url: 
           title: Special Scholarship for Outstanding Students of ECNU
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2021-12-01'
+          description: ''
+          icon: ''
+          organization: Chinese Mathematical Society
+          organization_url: 
+          title: |2-
+              13th Chinese Mathematics Competitions (Preliminary Round)
+
+              First Prize
     design:
       columns: '1'
   - block: collection
