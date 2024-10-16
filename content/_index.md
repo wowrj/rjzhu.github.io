@@ -119,7 +119,7 @@ sections:
           organization: China Society for Industrial and Applied Mathematics
           organization_url: http://en.mcm.edu.cn/
           title: Contemporary Undergraduate Mathematical Contest in Modeling
-            (全国大学生数学建模竞赛)
+            全国大学生数学建模竞赛
           url: ''
         - certificate_url: ''
           date_end: ''
