@@ -119,7 +119,7 @@ sections:
           icon: top_en.jpg
           organization: China Society for Industrial and Applied Mathematics
           organization_url: http://en.mcm.edu.cn/
-          title: |
+          title: |2-
             Contemporary Undergraduate Mathematical Contest in Modeling
             全国大学生数学建模竞赛
           url: ''
@@ -130,7 +130,7 @@ sections:
           icon: 
           organization: Shanghai Municipal Education Commission
           organization_url: 
-          title: |
+          title: |2-
             Shanghai College Students' Chemistry Experiment Competition 
             第十八届上海大学生化学实验竞赛
           url: ''
