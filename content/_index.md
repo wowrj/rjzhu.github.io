@@ -125,8 +125,16 @@ sections:
           date_start: '2022-10-01'
           description: ''
           icon: ''
-          organization: 
-          organization_url: Ministry of Education of P.R.China
+          organization: Ministry of Education of P.R.China
+          organization_url: 
+          title: National Scholarship for Undergraduate Students
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2024-10-01'
+          description: ''
+          icon: ''
+          organization: Ministry of Education of P.R.China
+          organization_url: 
           title: National Scholarship for Undergraduate Students
     design:
       columns: '1'
