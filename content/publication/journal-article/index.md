@@ -2,7 +2,8 @@
 title: "Coarse-Grained Dynamic Simulation of Cytoskeletal Microtubule Twist"
 authors:
 - admin
-- Fei Xia
+- Yuwei Zhang*
+- Fei Xia*
 date: "2024-10-01T00:00:00Z"
 doi: ""
 
