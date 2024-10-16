@@ -108,7 +108,7 @@ sections:
           icon: https://edu.sh.gov.cn/edu-assets-20200601/imgs/logo.png
           organization: Shanghai Municipal Education Commission
           organization_url: 
-          title: |
+          title: |2-
             Shanghai College Students' Chemistry Experiment Innovation Design Competition 
             第十七届上海大学生化学实验创新设计竞赛
           url: ''
