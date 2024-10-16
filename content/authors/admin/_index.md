@@ -25,7 +25,7 @@ organizations:
     url: https://www.ecnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an undergraduate student of Chemistry at the school of chemistry and molecular engineering in ECNU. My research interests include using computational methods to Explore biological systems and protein drug binding pocket information.
+bio: I'm an undergraduate student of Chemistry at the school of chemistry and molecular engineering in ECNU. My research interests include using computational methods to explore biological systems and protein drug binding pocket information.
 
 # Interests to show in About widget
 interests:
@@ -103,5 +103,5 @@ social:
 highlight_name: true
 ---
 
-I'm an undergraduate student of Chemistry at the school of chemistry and molecular engineering in ECNU. My research interests include using computational methods to Explore biological systems and protein drug binding pocket information.
+I'm an undergraduate student of Chemistry at the school of chemistry and molecular engineering in ECNU. My research interests include using computational methods to explore biological systems and protein drug binding pocket information.
 {style="text-align: justify;"}
