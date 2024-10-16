@@ -110,6 +110,7 @@ sections:
           organization_url: 
           title: |2-
               Shanghai College Students' Chemistry Experiment Innovation Design Competition 
+              
               第十七届上海大学生化学实验创新设计竞赛
           url: ''
         - certificate_url: http://en.mcm.edu.cn/
@@ -121,6 +122,7 @@ sections:
           organization_url: http://en.mcm.edu.cn/
           title: |2-
               Contemporary Undergraduate Mathematical Contest in Modeling
+
               全国大学生数学建模竞赛
           url: ''
         - certificate_url: ''
@@ -132,6 +134,7 @@ sections:
           organization_url: 
           title: |2-
               Shanghai College Students' Chemistry Experiment Competition 
+
               第十八届上海大学生化学实验竞赛
           url: ''
     design:
