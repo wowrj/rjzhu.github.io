@@ -108,7 +108,7 @@ sections:
           icon: https://edu.sh.gov.cn/edu-assets-20200601/imgs/logo.png
           organization: 上海市教育委员会
           organization_url: 
-          title: 第十七届上海大学生化学实验竞赛暨实验创新设计竞赛
+          title: Shanghai College Students' Chemistry Experiment Innovation Design Competition (第十七届上海大学生化学实验创新设计竞赛)
           url: ''
         - certificate_url: http://en.mcm.edu.cn/
           date_end: ''
@@ -126,7 +126,8 @@ sections:
           icon: 
           organization: 上海市教育委员会
           organization_url: 
-          title: 第十八届上海大学生化学实验竞赛
+          title: Shanghai College Students' Chemistry Experiment Competition 
+            (第十八届上海大学生化学实验竞赛)
           url: ''
     design:
       columns: '2'
