@@ -75,39 +75,59 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2023-09-01'
-          description: 'Special Prize (Top 1)'
+          description: ''
           icon: ''
           organization: Shanghai Municipal Education Commission
           organization_url: 
           title: |2-
               Shanghai College Students' Chemistry Experiment Innovation Design Competition 
 
-              第十七届上海大学生化学实验创新设计竞赛
+              Special Prize (Top 1)
           url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2023-11-25'
-          description: 'Second Prize (Top 3%)'
+          description: ''
           icon: top_en.jpg
           organization: China Society for Industrial and Applied Mathematics
           organization_url: ''
           title: |2-
               Contemporary Undergraduate Mathematical Contest in Modeling
 
-              全国大学生数学建模竞赛
+              Second Prize (Top 3%)
           url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2024-07-14'
-          description: 'Special Prize (Top 1)'
+          description: ''
           icon: 
           organization: Shanghai Municipal Education Commission
           organization_url: 
           title: |2-
               Shanghai College Students' Chemistry Experiment Competition 
 
-              第十八届上海大学生化学实验竞赛
+              Special Prize (Top 1)
           url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-09-01'
+          description: ''
+          icon: ''
+          organization: East China Normal University
+          organization_url: 
+          title: |2-
+              9th ECNU Undergraduate Innovation and Entrepreneurship Academic Forum
+
+              Outstanding Report Award
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2022'
+          description: ''
+          icon: ''
+          organization: 
+          organization_url: Ministry of Education of P.R.China
+          title: National Scholarship for Undergraduate Students
     design:
       columns: '1'
   - block: collection
