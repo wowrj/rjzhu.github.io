@@ -1,6 +1,3 @@
----
-# Display name
-title: Renjie Zhu
 
 # Name pronunciation (optional)
 # name_pronunciation: Zhu Ren Jie
@@ -25,7 +22,7 @@ organizations:
     url: https://www.ecnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an undergraduate student of Chemistry at the school of chemistry and molecular engineering in ECNU.My research interests include computational chemistry and molecular dynamics.
+bio: I'm an undergraduate student of Chemistry at the school of chemistry and molecular engineering in ECNU. My research interests include using computational methods to Explore biological systems and protein drug binding pocket information.
 
 # Interests to show in About widget
 interests:
@@ -97,7 +94,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV-Renjie Zhu.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -105,3 +102,4 @@ highlight_name: true
 
 Renjie Zhu is an undergraduate student of Chemistry at the school of chemistry and molecular engineering in ECNU.
 {style="text-align: justify;"}
+
