@@ -122,7 +122,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2022'
+          date_start: '2022-10-01'
           description: ''
           icon: ''
           organization: 
