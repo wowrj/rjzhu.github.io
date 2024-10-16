@@ -20,6 +20,7 @@ sections:
     design:
       columns: '1'
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -58,6 +59,7 @@ sections:
     design:
       columns: '1'
   - block: accomplishments
+    id: experience
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -107,7 +109,7 @@ sections:
               第十八届上海大学生化学实验竞赛
           url: ''
     design:
-      columns: '2'
+      columns: '1'
   - block: collection
     id: posts
     content:
