@@ -1,3 +1,6 @@
+---
+# Display name
+title: Renjie Zhu
 
 # Name pronunciation (optional)
 # name_pronunciation: Zhu Ren Jie
@@ -102,4 +105,3 @@ highlight_name: true
 
 I'm an undergraduate student of Chemistry at the school of chemistry and molecular engineering in ECNU. My research interests include using computational methods to Explore biological systems and protein drug binding pocket information.
 {style="text-align: justify;"}
-
