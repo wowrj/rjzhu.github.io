@@ -104,27 +104,29 @@ sections:
         - certificate_url: https://news.sjtu.edu.cn/jdyw/20230906/187733.html
           date_end: ''
           date_start: '2023-09-01'
-          description: '特等奖(Top 1)'
+          description: 'Special Prize (Top 1)'
           icon: https://edu.sh.gov.cn/edu-assets-20200601/imgs/logo.png
-          organization: 上海市教育委员会
+          organization: Shanghai Municipal Education Commission
           organization_url: 
-          title: Shanghai College Students' Chemistry Experiment Innovation Design Competition (第十七届上海大学生化学实验创新设计竞赛)
+          title: Shanghai College Students' Chemistry Experiment Innovation Design Competition 
+            (第十七届上海大学生化学实验创新设计竞赛)
           url: ''
         - certificate_url: http://en.mcm.edu.cn/
           date_end: ''
           date_start: '2023-11-25'
-          description: '二等奖'
+          description: 'Second Prize (Top 3%)'
           icon: top_en.jpg
-          organization: 中国工业与应用数学会
+          organization: China Society for Industrial and Applied Mathematics
           organization_url: http://en.mcm.edu.cn/
-          title: 全国大学生数学建模竞赛
+          title: Contemporary Undergraduate Mathematical Contest in Modeling
+            (全国大学生数学建模竞赛)
           url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2024-07-14'
-          description: '特等奖(Top 1)'
+          description: 'Special Prize (Top 1)'
           icon: 
-          organization: 上海市教育委员会
+          organization: Shanghai Municipal Education Commission
           organization_url: 
           title: Shanghai College Students' Chemistry Experiment Competition 
             (第十八届上海大学生化学实验竞赛)
