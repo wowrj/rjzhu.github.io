@@ -119,7 +119,8 @@ sections:
           icon: top_en.jpg
           organization: China Society for Industrial and Applied Mathematics
           organization_url: http://en.mcm.edu.cn/
-          title: Contemporary Undergraduate Mathematical Contest in Modeling
+          title: |
+            Contemporary Undergraduate Mathematical Contest in Modeling
             全国大学生数学建模竞赛
           url: ''
         - certificate_url: ''
@@ -129,7 +130,8 @@ sections:
           icon: 
           organization: Shanghai Municipal Education Commission
           organization_url: 
-          title: Shanghai College Students' Chemistry Experiment Competition 
+          title: |
+            Shanghai College Students' Chemistry Experiment Competition 
             第十八届上海大学生化学实验竞赛
           url: ''
     design:
@@ -161,6 +163,20 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+  - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: portfolio
     id: projects
     content:
@@ -196,25 +212,6 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
