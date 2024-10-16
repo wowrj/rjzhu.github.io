@@ -136,6 +136,14 @@ sections:
           organization: Ministry of Education of P.R.China
           organization_url: 
           title: National Scholarship for Undergraduate Students
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-10-01'
+          description: ''
+          icon: ''
+          organization: East China Normal University
+          organization_url: 
+          title: Special Scholarship for Outstanding Students of ECNU
     design:
       columns: '1'
   - block: collection
