@@ -62,7 +62,7 @@ sections:
     id: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplishments'
+      title: 'Accomplishments & Awards'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -72,11 +72,11 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://news.sjtu.edu.cn/jdyw/20230906/187733.html
+        - certificate_url: ''
           date_end: ''
           date_start: '2023-09-01'
           description: 'Special Prize (Top 1)'
-          icon: https://edu.sh.gov.cn/edu-assets-20200601/imgs/logo.png
+          icon: ''
           organization: Shanghai Municipal Education Commission
           organization_url: 
           title: |2-
@@ -84,13 +84,13 @@ sections:
 
               第十七届上海大学生化学实验创新设计竞赛
           url: ''
-        - certificate_url: http://en.mcm.edu.cn/
+        - certificate_url: ''
           date_end: ''
           date_start: '2023-11-25'
           description: 'Second Prize (Top 3%)'
           icon: top_en.jpg
           organization: China Society for Industrial and Applied Mathematics
-          organization_url: http://en.mcm.edu.cn/
+          organization_url: ''
           title: |2-
               Contemporary Undergraduate Mathematical Contest in Modeling
 
