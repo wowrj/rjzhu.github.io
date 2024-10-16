@@ -94,12 +94,12 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/CV-Renjie Zhu.pdf
+    link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Renjie Zhu is an undergraduate student of Chemistry at the school of chemistry and molecular engineering in ECNU.
+I'm an undergraduate student of Chemistry at the school of chemistry and molecular engineering in ECNU. My research interests include using computational methods to Explore biological systems and protein drug binding pocket information.
 {style="text-align: justify;"}
 
