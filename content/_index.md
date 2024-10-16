@@ -111,6 +111,7 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: pub
     content:
       title: Recent Publications
       text: |-

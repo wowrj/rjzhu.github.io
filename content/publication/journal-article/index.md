@@ -19,10 +19,10 @@ publication_types: ["article-journal"]
 publication: "*in prep*"
 publication_short: ""
 
-abstract: UCG model
+abstract: Microtubule, a key component of the cytoskeleton, plays a crucial role in cell mitosis. Modeling and dynamic simulation of microtubules at the micrometer scale remain a significant challenge. In this study, we developed the helix based ultra-coarse-grained (HB-UCG) model for the dynamic simulation of microtubules, based on the helical characteristics obtained from electron microscopy density data. We constructed microtubules up to 35 μm in length and investigated the relationship between persistence length and contour length. By comparing our results with experimental data, we validated the potential of the HB-UCG model in simulating microtubule functions. We also simulated the twist process of microtubules driven by motor proteins, successfully demonstrating the model's effectiveness in simulating biological processes. This study can provide the foundation for theoretical simulations of microtubule functions during mitosis.
 
 # Summary. An optional shortened abstract.
-summary: UCG model
+summary: New UCG model for simulating microtubules
 
 tags:
 - Publications
@@ -43,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Helix-Based ultra-coarse-grained (HB-UCG) model construction process'
   focal_point: ""
   preview_only: false
 
