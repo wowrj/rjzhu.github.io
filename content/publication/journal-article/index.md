@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://www.biorxiv.org/content/10.1101/2024.10.16.618782v1.full.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
