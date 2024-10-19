@@ -4,19 +4,19 @@ authors:
 - admin
 - Yuwei Zhang*
 - Fei Xia*
-date: "2024-10-01T00:00:00Z"
-doi: ""
+date: "2024-10-18T00:00:00Z"
+doi: "10.1101/2024.10.16.618782"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-10-01T00:00:00Z"
+publishDate: "2024-10-18T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*in prep*"
+publication: "*bioRxiv*"
 publication_short: ""
 
 abstract: Microtubule, a key component of the cytoskeleton, plays a crucial role in cell mitosis. Modeling and dynamic simulation of microtubules at the micrometer scale remain a significant challenge. In this study, we developed the helix based ultra-coarse-grained (HB-UCG) model for the dynamic simulation of microtubules, based on the helical characteristics obtained from electron microscopy density data. We constructed microtubules up to 35 μm in length and investigated the relationship between persistence length and contour length. By comparing our results with experimental data, we validated the potential of the HB-UCG model in simulating microtubule functions. We also simulated the twist process of microtubules driven by motor proteins, successfully demonstrating the model's effectiveness in simulating biological processes. This study can provide the foundation for theoretical simulations of microtubule functions during mitosis.
