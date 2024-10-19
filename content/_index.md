@@ -33,7 +33,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Practice
-          company: ECNU-Xia-Group
+          company: ECNU-Xia-Group (NYU-ECNU Center for Computational Chemistry)
           company_url: ''
           company_logo: org-x
           location: Shanghai
