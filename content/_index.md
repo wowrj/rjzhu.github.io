@@ -33,10 +33,10 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Practice
-          company: ECNU-Xia-Group Supervisor:Fei Xia (NYU-ECNU Center for Computational Chemistry)
+          company: Supervisor:Fei Xia (NYU-ECNU Center for Computational Chemistry)
           company_url: ''
           company_logo: org-x
-          location: Shanghai
+          location: East China Normal University(Shanghai, China)
           date_start: '2021-08-30'
           date_end: ''
           description: |2-
@@ -45,10 +45,10 @@ sections:
               * Computational Chemistry
               * Coarse-grained Modelling
         - title: Summer Research
-          company: WAIS-Huang-Group Supervisor:Jing Huang
+          company: Supervisor:Jing Huang
           company_url: ''
           company_logo: ''
-          location: Hangzhou
+          location: Westlake University(Hangzhou, China)
           date_start: '2024-07-30'
           date_end: '2024-08-30'
           description: |2-
