@@ -36,7 +36,7 @@ sections:
           company: Supervisor:Fei Xia (NYU-ECNU Center for Computational Chemistry)
           company_url: ''
           company_logo: org-x
-          location: East China Normal University(Shanghai, China)
+          location: East China Normal University (Shanghai, China)
           date_start: '2021-08-30'
           date_end: ''
           description: |2-
@@ -48,7 +48,7 @@ sections:
           company: Supervisor:Jing Huang
           company_url: ''
           company_logo: ''
-          location: Westlake University(Hangzhou, China)
+          location: Westlake University (Hangzhou, China)
           date_start: '2024-07-30'
           date_end: '2024-08-30'
           description: |2-
