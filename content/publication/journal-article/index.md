@@ -60,9 +60,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ''
----
 
----
 title: "Coarse-Grained Dynamic Simulation of Cytoskeletal Microtubule Twist"
 authors:
 - admin
