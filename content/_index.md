@@ -35,7 +35,7 @@ sections:
         - title: Research Practice
           company: Supervisor:Fei Xia (NYU-ECNU Center for Computational Chemistry)
           company_url: ''
-          company_logo: org-x
+          company_logo: ''
           location: East China Normal University (Shanghai, China)
           date_start: '2021-08-30'
           date_end: ''
@@ -43,7 +43,7 @@ sections:
               Responsibilities include:
 
               * Computational Chemistry
-              * Coarse-grained Modelling
+              * Coarse-grained Modelling and simulation
         - title: Summer Research
           company: Supervisor:Jing Huang
           company_url: ''
