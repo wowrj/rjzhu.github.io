@@ -3,11 +3,11 @@ title: " Organic small molecules CG MD test "
 authors:
 - admin
 - Fei Xia*
-date: "2024-10-18T00:00:00Z"
-doi: "10.1101/2024.10.16.618782"
+date: "2025-04-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-10-18T00:00:00Z"
+publishDate: "2025-04-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
