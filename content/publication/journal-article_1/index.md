@@ -3,7 +3,7 @@ title: " Organic small molecules CG MD test "
 authors:
 - admin
 - Fei Xia*
-date: "2025-1-18T00:00:00Z"
+date: "2025-1-18"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
