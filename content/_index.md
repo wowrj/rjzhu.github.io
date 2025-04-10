@@ -153,8 +153,14 @@ sections:
           organization_url: 
           title: |2-
               13th Chinese Mathematics Competitions (Preliminary Round)
-
-              First Prize
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2025-06-01'
+          description: ''
+          icon: ''
+          organization: East China Normal University
+          organization_url: 
+          title: Outstanding Graduates in Shanghai
     design:
       columns: '1'
   - block: collection
