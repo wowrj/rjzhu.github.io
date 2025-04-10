@@ -44,7 +44,7 @@ sections:
 
               * Computational Chemistry
               * Coarse-grained Modelling and simulation
-        - title: Summer Research
+        - title: Summer Research Program
           company: Supervisor:Jing Huang
           company_url: ''
           company_logo: ''

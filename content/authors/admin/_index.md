@@ -48,17 +48,17 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 70
+        percent: 75
         icon: python
         icon_pack: fab
       - name: Chemistry
         description: ''
-        percent: 65
+        percent: 70
         icon: vial
         icon_pack: fas
-      - name: Lammps
+      - name: LAMMPS & GROMACS
         description: ''
-        percent: 50
+        percent: 75
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -68,8 +68,8 @@ skills:
       - name: Pokemon
         description: ''
         percent: 60
-        icon: person-hiking
-        icon_pack: fas
+        icon: Pokemon
+        icon_pack: custom
       - name: Fishing
         description: ''
         percent: 70
