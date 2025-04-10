@@ -1,5 +1,5 @@
 ---
-title: " organic small molecules CG MD test "
+title: " Organic small molecules CG MD test "
 authors:
 - admin
 - Fei Xia*
