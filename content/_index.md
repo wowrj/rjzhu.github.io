@@ -153,6 +153,8 @@ sections:
           organization_url: 
           title: |2-
               13th Chinese Mathematics Competitions (Preliminary Round)
+
+              First Prize
         - certificate_url: ''
           date_end: ''
           date_start: '2025-06-01'
