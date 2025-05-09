@@ -25,11 +25,11 @@ organizations:
     url: https://www.ecnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an undergraduate student of Chemistry at the school of chemistry and molecular engineering in ECNU. My research interests include using computational methods to explore biological and chemical systems and protein drug binding pocket information.
+bio: I'm an undergraduate student of Chemistry at the school of chemistry and molecular engineering in ECNU. My research interests include using computational methods to explore chemical systems.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+#  - Artificial Intelligence
   - Computational Chemistry
   - Coarse-grained Modeling
   - Computer-Aided Drug Design
@@ -92,19 +92,19 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/wowrj
-  - icon: twitter
-    icon_pack: fab
-    link: https://x.com/UjotH
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://x.com/UjotH
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/CV-Renjie Zhu.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: uploads/CV-Renjie Zhu.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I'm an undergraduate student of Chemistry at the school of chemistry and molecular engineering in ECNU. My research interests include using computational methods to explore biological and chemical systems and protein drug binding pocket information.
+I'm an undergraduate student of Chemistry at the school of chemistry and molecular engineering in ECNU. My research interests include using computational methods to explore chemical systems.
 {style="text-align: justify;"}
