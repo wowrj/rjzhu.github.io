@@ -43,7 +43,7 @@ sections:
               Responsibilities include:
 
               * Computational Chemistry
-              * Coarse-grained Modelling and simulation
+              * Coarse-Grained Modelling and Simulation
         - title: Summer Research Program
           company: Supervisor:Jing Huang
           company_url: ''
