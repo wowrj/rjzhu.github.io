@@ -1,5 +1,5 @@
 ---
-title: "Coarse-Grained Dynamic Simulation of Cytoskeletal Microtubule Twist"
+title: "Coarse-Grained Simulation of Persistence Length and Twisting Dynamics of Micrometer-Scale Microtubules"
 authors:
 - admin
 - Yuwei Zhang*
