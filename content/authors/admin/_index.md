@@ -39,10 +39,10 @@ education:
   courses:
     - course: BSc in Chemistry
       institution: East China Normal University
-      year: 2021.09-2025.07
+      year: Sep 2021 – Jul 2025
     - course: PhD in Chemistry
       institution: Boston University
-      year: 2025.09-
+      year: Sep 2025 – Now
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
