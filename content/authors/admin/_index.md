@@ -22,7 +22,7 @@ role: Undergraduate Student of Chemistry
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: East China Normal University
-    url: https://www.ecnu.edu.cn/
+    url: https://english.ecnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm an undergraduate student of Chemistry at the school of chemistry and molecular engineering in ECNU. My research interests include using computational methods to explore chemical systems.
@@ -39,7 +39,10 @@ education:
   courses:
     - course: BSc in Chemistry
       institution: East China Normal University
-      year: Now
+      year: 2021.09-2025.07
+    - course: PhD in Chemistry
+      institution: Boston University
+      year: 2025.09-
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
