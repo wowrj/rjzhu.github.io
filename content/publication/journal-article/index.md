@@ -17,8 +17,8 @@ publishDate: "2025-07-11T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*J. Phys. Chem. Lett.*"
-publication_short: ""
+publication: "The Journal of Physical Chemistry Letters"
+publication_short: "*J. Phys. Chem. Lett*"
 
 abstract: Microtubules (MTs) are hollow cytoskeletal polymers with exceptional mechanical rigidity and dynamic instability, distinguishing them from conventional helical polymers. Their unique biophysical properties pose significant challenges for computational modeling, particularly on biologically relevant length scales. In this study, we developed a helix-based ultra-coarse-grained (HB-UCG) model for MT dynamic simulation, based on the electron microscopy density data of helical MTs. Using this model, we constructed MTs of up to 35 μm in length and investigated the relationship between the persistence length and contour length. Validation against experimental data confirmed the HB-UCG model’s ability to simulate MT mechanical properties accurately. Additionally, we performed coarse-grained molecular dynamics (CGMD) simulations approaching the millisecond scale, capturing the formation of kinks through MT twisting and quantifying the associated shear strains. We also simulated the helicity of a single MT and compared it with the experimental values of MT bundles, suggesting that inter-MT interactions have an important influence on the helicity of the MT bundles. Our work provides a valuable CG model for studying micrometer-scale MT dynamics in cellular environments.
 
