@@ -43,6 +43,7 @@ sections:
               Responsibilities include:
 
               * Computational Chemistry
+              * Coarse-Grained Force Field
               * Coarse-Grained Modelling and Simulation
         - title: Summer Research Program
           company: Supervisor:Jing Huang
