@@ -157,12 +157,21 @@ sections:
               First Prize
         - certificate_url: ''
           date_end: ''
-          date_start: '2025-06-01'
+          date_start: '2025-05-01'
+          description: ''
+          icon: ''
+          organization: Shanghai Municipal Commission of Education
+          organization_url: 
+          title: Outstanding Graduates in Shanghai
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2025-06-30'
           description: ''
           icon: ''
           organization: East China Normal University
           organization_url: 
-          title: Outstanding Graduates in Shanghai
+          title: Outstanding Undergraduate Thesis of East China Normal University
+
     design:
       columns: '1'
   - block: collection
