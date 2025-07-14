@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Student of Chemistry
+role: Incoming PhD Student in Chemistry
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: East China Normal University
-    url: https://english.ecnu.edu.cn/
+  - name: Boston University
+    url: https://www.bu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an undergraduate student of Chemistry at the school of chemistry and molecular engineering in ECNU. My research interests include using computational methods to explore chemical systems.
+bio: I am an incoming Ph.D. student in Chemistry at Boston University. I received my Bachelor of Science degree in Chemistry from East China Normal University in 2025. My research interests include using computational methods to explore chemical and biological systems.
 
 # Interests to show in About widget
 interests:
@@ -40,7 +40,7 @@ education:
     - course: BSc in Chemistry
       institution: East China Normal University
       year: Sep 2021 – Jul 2025
-    - course: PhD in Chemistry
+    - course: PhD student in Chemistry
       institution: Boston University
       year: Sep 2025 – Now
 
