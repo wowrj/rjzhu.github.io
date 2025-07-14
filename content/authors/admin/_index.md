@@ -109,5 +109,5 @@ social:
 highlight_name: true
 ---
 
-I'm an undergraduate student of Chemistry at the school of chemistry and molecular engineering in ECNU. My research interests include using computational methods to explore chemical systems.
+I am an incoming Ph.D. student in Chemistry at Boston University. I received my Bachelor of Science degree in Chemistry from East China Normal University in 2025. My research interests include using computational methods to explore chemical and biological systems.
 {style="text-align: justify;"}
