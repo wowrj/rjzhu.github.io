@@ -81,7 +81,7 @@ sections:
           organization: Shanghai Municipal Education Commission
           organization_url: 
           title: |2-
-              Shanghai College Students' Chemistry Experiment Innovation Design Competition 
+              17th Shanghai College Students' Chemistry Experiment Innovation Design Competition 
 
               Special Prize (Top 1)
           url: ''
@@ -93,7 +93,7 @@ sections:
           organization: China Society for Industrial and Applied Mathematics
           organization_url: ''
           title: |2-
-              17th Contemporary Undergraduate Mathematical Contest in Modeling
+              Contemporary Undergraduate Mathematical Contest in Modeling
 
               Second Prize (Top 3%)
           url: ''
