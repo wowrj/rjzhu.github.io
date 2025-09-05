@@ -243,8 +243,8 @@ sections:
         country_code: US
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '42.342415297'
-        longitude: '-71.1001079329'
+        latitude: '42.3481'
+        longitude: '-71.1004'
       contact_links:
         - icon: video
           icon_pack: fas
