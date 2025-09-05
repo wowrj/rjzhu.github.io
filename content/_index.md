@@ -235,16 +235,16 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: rjzhu811@gmail.com
       address:
-        street: Dongchuan Road 500
-        city: Shanghai
-        region: SH
-        postcode: '200241'
-        country: P.R.China
-        country_code: CN
+        street: 590 Commonwealth Ave.
+        city: Boston
+        region: MA
+        postcode: '02215'
+        country: United States
+        country_code: US
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '31.030686'
-        longitude: '121.450154'  
+        latitude: '42.342415297'
+        longitude: '-71.1001079329'
       contact_links:
         - icon: video
           icon_pack: fas
