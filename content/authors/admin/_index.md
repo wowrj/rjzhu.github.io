@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Incoming PhD Student in Chemistry
+role: PhD Student in Chemistry
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://www.bu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an incoming Ph.D. student in Chemistry at Boston University. I received my Bachelor of Science degree in Chemistry from East China Normal University in 2025. My research interests include using computational methods to explore chemical and biological systems.
+bio: I am a Ph.D. student in Chemistry at Boston University. I received my Bachelor of Science degree in Chemistry from East China Normal University in 2025. My research interests include using computational methods to explore chemical and biological systems.
 
 # Interests to show in About widget
 interests:
@@ -109,5 +109,5 @@ social:
 highlight_name: true
 ---
 
-I am an incoming Ph.D. student in Chemistry at Boston University. I received my Bachelor of Science degree in Chemistry from East China Normal University in 2025. My research interests include using computational methods to explore chemical and biological systems.
+I am a Ph.D. student in Chemistry at Boston University. I received my Bachelor of Science degree in Chemistry from East China Normal University in 2025. My research interests include using computational methods to explore chemical and biological systems.
 {style="text-align: justify;"}
