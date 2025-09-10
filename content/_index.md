@@ -32,13 +32,24 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: LAB Rotation
+          company: 'Chemistry Department'
+          company_url: ''
+          company_logo: ''
+          location: Boston University
+          date_start: '2025-09-08'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Computational biophysics
         - title: Research Practice
           company: Supervisor:Fei Xia (NYU-ECNU Center for Computational Chemistry)
           company_url: ''
           company_logo: ''
           location: East China Normal University (Shanghai, China)
-          date_start: '2021-08-30'
-          date_end: ''
+          date_start: '2021-09-30'
+          date_end: '2025-08-30'
           description: |2-
               Responsibilities include:
 
