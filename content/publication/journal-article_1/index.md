@@ -2,6 +2,8 @@
 title: "Optimized Lennard-Jones Parameters Improve Martini3 Force Fields for Small Organic Molecules"
 authors:
 - admin
+- Tong Zhu
+- Ruibo Wu
 - Fei Xia*
 date: "2025-09-01T00:00:00Z"
 doi: ""
@@ -18,7 +20,7 @@ publication_types: ["preprint"]
 publication: "In preparation"
 publication_short: ""
 
-abstract: In preparation
+abstract: This study reports the development of a new coarse-grained (CG) force field for organic small molecules. The force field is primarily based on the Martini framework, incorporating Lennard-Jones (LJ) parameters optimized from the general GAFF using the Lennard-Jones static potential method (LJSPM), which is called MartiniOLJ force field. We evaluated the MartiniOLJ force field by simulating a total of 87 organic small molecules from datasets DS59 and DS28. The results showed that while MartiniOLJ yielded slightly less accurate solvent densities compared to the Martini3 force field for small molecules, it achieved significant improvements in both vaporization enthalpy and solvation free energy accuracy over the original Martini3 force field. The CG molecular dynamics (CGMD) simulation results of the MartiniOLJ force field demonstrate that utilizing LJSPM to derive LJ parameters optimized from All-Atom (AA) force fields can enhance the description of non-bonded interactions between CG particles in molecular modeling. The CG modeling strategy presented in this study provides a systematic and feasible approach for developing accurate CG models for more organic molecules in the future.
 
 # Summary. An optional shortened abstract.
 summary:
