@@ -42,7 +42,7 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Computational biophysics
+              * Computational Biophysics
         - title: Research Practice
           company: Supervisor:Fei Xia (NYU-ECNU Center for Computational Chemistry)
           company_url: ''
