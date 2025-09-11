@@ -31,7 +31,8 @@ bio: I am a Ph.D. student in Chemistry at Boston University. I received my Bache
 interests:
 #  - Artificial Intelligence
   - Computational Chemistry
-  - Coarse-grained Modeling
+  - Computational Biophysics
+  - Coarse-Grained Modeling
   - Computer-Aided Drug Design
 
 # Education to show in About widget
@@ -101,9 +102,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-#  - icon: cv
-#    icon_pack: ai
-#    link: uploads/CV-Renjie Zhu.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/CV-Renjie Zhu.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
