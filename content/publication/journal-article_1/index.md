@@ -5,11 +5,11 @@ authors:
 - Tong Zhu
 - Ruibo Wu
 - Fei Xia*
-date: "2025-09-01T00:00:00Z"
-doi: ""
+date: "2025-09-16T00:00:00Z"
+doi: "10.26434/chemrxiv-2025-cb49x"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-09-01T00:00:00Z"
+publishDate: "2025-09-16T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,7 +17,7 @@ publishDate: "2025-09-01T00:00:00Z"
 publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Submission"
+publication: "ChemRxiv"
 publication_short: ""
 
 abstract: This study presents the development of a new coarse-grained (CG) force field, named MartiniOLJ, designed for organic small molecules. Building upon the Martini framework, the new force field incorporates optimized Lennard-Jones (LJ) parameters derived from the general GAFF force field. We evaluated the MartiniOLJ force field by simulating a total of 87 organic small molecules from the DS59 and DS28 datasets. The results indicate that MartiniOLJ achieves significant improvements in predicting vaporization enthalpy and solvation free energy compared to the original Martini3 force field, although it yields slightly less accurate estimates of solvent density. The CG molecular dynamics (CGMD) simulations demonstrate that incorporating optimized LJ parameters from all-atom (AA) force fields can effectively enhance the description of non-bonded interactions between CG particles. The optimization strategy proposed in this work offers a systematic and transferable approach for developing accurate CG models for a broader range of organic molecules in the future.
