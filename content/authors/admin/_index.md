@@ -25,7 +25,7 @@ organizations:
     url: https://www.bu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. student in Chemistry at Boston University. I received my Bachelor of Science degree in Chemistry from East China Normal University in 2025, where I spent four unforgettable and enjoyable years. My research interests include using computational methods to explore chemical and biological systems.
+bio: I am a PhD student in Chemistry at Boston University. I received my Bachelor of Science degree in Chemistry from East China Normal University in 2025, where I spent four unforgettable and enjoyable years. My research interests include using computational methods to explore chemical and biological systems.
 
 # Interests to show in About widget
 interests:
@@ -69,7 +69,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Pokemon
+      - name: Pokemon & Crayon Shin-chan
         description: ''
         percent: 60
         icon: Pokemon
@@ -110,5 +110,5 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. student in Chemistry at Boston University. I received my Bachelor of Science degree in Chemistry from East China Normal University in 2025, where I spent four unforgettable and enjoyable years. My research interests include using computational methods to explore chemical and biological systems.
+I am a PhD student in Chemistry at Boston University. I received my Bachelor of Science degree in Chemistry from East China Normal University in 2025, where I spent four unforgettable and enjoyable years. My research interests include using computational methods to explore chemical and biological systems.
 {style="text-align: justify;"}
