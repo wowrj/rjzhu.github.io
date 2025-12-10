@@ -38,7 +38,7 @@ sections:
           company_logo: ''
           location: Boston University
           date_start: '2025-09-08'
-          date_end: ''
+          date_end: '2025-12-08'
           description: |2-
               Responsibilities include:
 
