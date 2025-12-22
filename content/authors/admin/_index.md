@@ -110,5 +110,5 @@ social:
 highlight_name: true
 ---
 
-I am a PhD student in Chemistry at Boston University. I received my Bachelor of Science degree in Chemistry from East China Normal University in 2025, where I spent four unforgettable and enjoyable years. My research interests include using computational methods to explore chemical and biological systems.
+Hi, I am Renjie Zhu (朱 仁杰), a PhD student in Chemistry at Boston University. I received my Bachelor of Science degree in Chemistry from East China Normal University in 2025, where I spent four unforgettable and rewarding years. My given name shares the same Chinese characters as Di Renjie, a legendary detective figure. Therefore, I want to become a “detective” in the scientific world, using computational approaches to uncover the hidden mechanisms underlying chemical and biological systems.
 {style="text-align: justify;"}
