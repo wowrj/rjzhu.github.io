@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Renjie Zhu (朱仁杰)
+title: Renjie Zhu
 
 # Name pronunciation (optional)
 # name_pronunciation: Zhu Ren Jie
@@ -25,7 +25,8 @@ organizations:
     url: https://www.bu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in Chemistry at Boston University. I received my Bachelor of Science degree in Chemistry from East China Normal University in 2025, where I spent four unforgettable and enjoyable years. My research interests include using computational methods to explore chemical and biological systems.
+bio: Hi, I am Rnejie Zhu (朱 仁杰), a PhD student in Chemistry at Boston University. I received my Bachelor of Science degree in Chemistry from East China Normal University in 2025, where I spent four unforgettable and enjoyable years. My research interests include using computational methods to explore chemical and biological systems.
+
 
 # Interests to show in About widget
 interests:
