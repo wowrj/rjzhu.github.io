@@ -26,7 +26,7 @@ marketing:
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: 'google7e5f2a33b72b4a93.html'
+    google: ''
     baidu: ''
 
 # Site header
@@ -51,8 +51,7 @@ footer:
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
-  poweredby:
-    enable: false
+
 # Localization
 
 locale:
