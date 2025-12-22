@@ -47,12 +47,10 @@ footer:
   copyright:
     notice: '© {year} Renjie Zhu. This work is licensed under {license}'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
-  poweredby:
-    enable: false
 
 # Localization
 
