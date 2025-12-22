@@ -93,9 +93,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:rjzhu811@gmail.com'
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/wowrj
+  - icon: researchgate
+    icon_pack: academicons
+    link: https://www.researchgate.net/profile/Renjie-Zhu-6?ev=hdr_xprf
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://x.com/UjotH
