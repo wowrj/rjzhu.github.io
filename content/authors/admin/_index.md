@@ -94,13 +94,13 @@ social:
     icon_pack: fas
     link: 'mailto:rjzhu811@gmail.com'
   - icon: researchgate
-    icon_pack: fab
+    icon_pack: custom
     link: https://www.researchgate.net/profile/Renjie-Zhu-6?ev=hdr_xprf
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/renjie-zhu-467b842b7/
-  - icon: googlescholar
-    icon_pack: fab
+  - icon: google-scholar
+    icon_pack: custom
     link: https://scholar.google.com/citations?user=xupvegQAAAAJ&hl=en&authuser=1
 
 # Link to a PDF of your resume/CV.
