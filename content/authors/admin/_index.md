@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Renjie Zhu
+title: Renjie Zhu (朱仁杰)
 
 # Name pronunciation (optional)
 # name_pronunciation: Zhu Ren Jie
