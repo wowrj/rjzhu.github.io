@@ -44,7 +44,15 @@ header:
 # Site footer
 
 footer:
-  enable: false
+  copyright:
+    notice: '© {year} Renjie Zhu. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+  poweredby:
+    enable: false
 # Localization
 
 locale:
