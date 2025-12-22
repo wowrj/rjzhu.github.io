@@ -94,7 +94,7 @@ social:
     icon_pack: fas
     link: 'mailto:rjzhu811@gmail.com'
   - icon: researchgate
-    icon_pack: academicons
+    icon_pack: fab
     link: https://www.researchgate.net/profile/Renjie-Zhu-6?ev=hdr_xprf
 #  - icon: twitter
 #    icon_pack: fab
