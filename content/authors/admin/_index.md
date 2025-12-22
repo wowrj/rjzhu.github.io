@@ -99,7 +99,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/renjie-zhu-467b842b7/
-  - icon: academicons/google-scholar
+  - icon: google-scholar
+    icon_pack: custom
     link: https://scholar.google.com/citations?user=xupvegQAAAAJ&hl=en&authuser=1
 
 # Link to a PDF of your resume/CV.
