@@ -1,0 +1,21 @@
+/* Hide Hugo Blox Builder powered by text */
+.powered-by {
+  display: none !important;
+}
+
+.footer-text .powered-by,
+.powered-by-blox,
+[class*="powered"],
+footer .blox-builder-credit {
+  display: none !important;
+}
+
+/* Alternative approach - hide via text content */
+footer a[href*="hugoblox.com"],
+footer a[href*="blox-builder"] {
+  display: none !important;
+}
+
+footer {
+  font-size: 0.9rem;
+}

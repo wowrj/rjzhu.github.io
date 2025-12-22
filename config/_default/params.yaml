@@ -10,6 +10,7 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: L
+  custom_css: ['css/custom.css']
 
 # SEO
 
@@ -45,7 +46,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} {name}. This work is licensed under {license}'
+    notice: '© {year} Renjie Zhu. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
