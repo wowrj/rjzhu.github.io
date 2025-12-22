@@ -99,7 +99,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/renjie-zhu-467b842b7/
-  - icon: google-scholar
+  - icon: googlescholar
     icon_pack: fab
     link: https://scholar.google.com/citations?user=xupvegQAAAAJ&hl=en&authuser=1
 
