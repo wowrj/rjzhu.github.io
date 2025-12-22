@@ -96,9 +96,9 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Renjie-Zhu-6?ev=hdr_xprf
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://x.com/UjotH
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/renjie-zhu-467b842b7/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
