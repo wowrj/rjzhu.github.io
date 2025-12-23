@@ -33,7 +33,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Practice
-          company: LAB
+          company: Supervisor: Qiang Cui
           company_url: ''
           company_logo: ''
           location: Boston University
@@ -43,9 +43,10 @@ sections:
               Responsibilities include:
 
               * Computational Biophysics
+              * Protein Dynamics
               * MD Simulation
         - title: LAB Rotation 1-2
-          company: 'Chemistry Department'
+          company: Chemistry Department
           company_url: ''
           company_logo: ''
           location: Boston University
@@ -58,7 +59,7 @@ sections:
               * MD Simulation
               * QM/MM Calculation
         - title: Research Practice
-          company: Supervisor:Fei Xia (NYU-ECNU Center for Computational Chemistry)
+          company: Supervisor: Fei Xia (NYU-ECNU Center for Computational Chemistry)
           company_url: ''
           company_logo: ''
           location: East China Normal University (Shanghai, China)
@@ -71,7 +72,7 @@ sections:
               * Coarse-Grained Force Field
               * Coarse-Grained Modelling and Simulation
         - title: Summer Research Program
-          company: Supervisor:Jing Huang
+          company: Supervisor: Jing Huang
           company_url: ''
           company_logo: ''
           location: Westlake University (Hangzhou, China)
