@@ -1,5 +1,5 @@
 ---
-title: "Optimized Lennard-Jones Parameters Improve Martini3 Force Fields for Small Organic Molecules"
+title: "Enhancing the Simulation Accuracy of Small Organic Molecules with an Optimized Lennard-Jones Coarse-Grained Model"
 authors:
 - admin
 - Tong Zhu
@@ -20,7 +20,7 @@ publication_types: ["preprint"]
 publication: "ChemRxiv"
 publication_short: ""
 
-abstract: This study presents the development of a new coarse-grained (CG) force field, named MartiniOLJ, designed for organic small molecules. Building upon the Martini framework, the new force field incorporates optimized Lennard-Jones (LJ) parameters derived from the general GAFF force field. We evaluated the MartiniOLJ force field by simulating a total of 87 organic small molecules from the DS59 and DS28 datasets. The results indicate that MartiniOLJ achieves significant improvements in predicting vaporization enthalpy and solvation free energy compared to the original Martini3 force field, although it yields slightly less accurate estimates of solvent density. The CG molecular dynamics (CGMD) simulations demonstrate that incorporating optimized LJ parameters from all-atom (AA) force fields can effectively enhance the description of non-bonded interactions between CG particles. The optimization strategy proposed in this work offers a systematic and transferable approach for developing accurate CG models for a broader range of organic molecules in the future.
+abstract: Developing accurate coarse-grained (CG) molecular models is crucial for building databases of complex chemical molecules and conducting related data-driven research. The accuracy of CG models is typically affected by CG bead resolution and non-bonded interaction parameters. In this study, an optimized Lennard-Jones (LJ) CG model (OLJCG) for small organic molecules was developed with parameters derived from the general Amber force field. The performance of the OLJCG model was evaluated by simulating the density of organic molecules, vaporization enthalpy, non-aqueous solvation free energy, and hydration free energy. CG molecular dynamics (CGMD) simulations demonstrate that introducing optimized LJ parameters into the OLJCG model effectively enhances the description of non-bonded interactions between CG particles. The optimization strategy proposed in this paper provides an accurate and systematic method for future development of CG small molecule databases.
 
 # Summary. An optional shortened abstract.
 summary:
