@@ -6,7 +6,7 @@ authors:
 - admin
 - Qiang Cui*
 date: "2026-01-27T00:00:00Z"
-doi: "10.26434/chemrxiv-2025-cb49x"
+doi: "10.26434/chemrxiv.10001634/v1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-01-27T00:00:00Z"
